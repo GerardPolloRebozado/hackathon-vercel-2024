@@ -28,4 +28,4 @@ bun start
 Abre [http://localhost:3000](http://localhost:3000) en el navegador y haz click en el boton de establecer la api key
 
 ## Demo
-Puedes probar el proyecto [desplegado](https://hackathon-vercel-2024.gerard.dev)
+Puedes probar el proyecto [desplegado](https://hackathon-vercel-2024.gerarddupre.dev)
