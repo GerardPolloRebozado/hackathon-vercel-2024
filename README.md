@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project using [Vercel AI SDK](https://sdk.vercel.ai/)
+Esto es un proyecto de [Next.js](https://nextjs.org/) con [Vercel AI SDK](https://sdk.vercel.ai/)
 ## Getting Started
 
-First, build the app:
+Primero consigue una clave api de [groq](https://console.groq.com/keys)
+y luego ejecuta los siguientes comandos
 
 ```bash
 npm run build
@@ -12,8 +13,7 @@ pnpm build
 # or
 bun build
 ```
-
-Then start the app:
+y
 
 ```bash
 npm run start
@@ -25,8 +25,7 @@ pnpm start
 bun start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-Before using the AI you must enter an api key from [groq](https://console.groq.com/keys) using the api key button then you can start chating with the perfectly working ai that dont have any bugs at all.
+Abre [http://localhost:3000](http://localhost:3000) en el navegador y haz click en el boton de establecer la api key
 
 ## Demo
+Puedes probar el proyecto [desplegado](hackathon-vercel-2024.gerard.dev)
