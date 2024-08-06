@@ -12,8 +12,8 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: "Broken llama",
-  description: "gerardPolloRebozado web for the vercel hackathon 2024, my app is about a series of broken chatbots using llama3 from groq",
+  title: "Multi llama",
+  description: "gerardPolloRebozado web for the vercel hackathon 2024, my app is about a series of diferent chatbots using llama3 from groq",
 };
 
 export default function RootLayout({
